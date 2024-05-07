@@ -4,7 +4,7 @@ Real Estate Research Software to help find properties and evaluate the investmen
 
 # REMAT-PRO: Real Estate Market Analysis Tool
 
-![Gateway](house.jpg "Garden Gate - Discovery Photos")
+![House](house.jpg "House - Pixabay Free Photos")
 
 # Contact me
 
