@@ -13,19 +13,19 @@ Below are my informational pages for the final project
 
 [Overview for this project](https://github.com/lachisholm/Data_Structure_Discovery/blob/main/Overview.md)
 
-[Comprehensive Data Import Capabilities](https://github.com/lachisholm/Data_Structure_Discovery/blob/main/Links.md)
+[Comprehensive Data Import Capabilities](https://github.com/lachisholm/REMAT_PRO/blob/main/Comprehensive.md)
 
-[Data Analysis](https://github.com/lachisholm/Data_Structure_Discovery/blob/main/Trees.md)
+[Data Analysis](https://github.com/lachisholm/REMAT_PRO/blob/main/Data_Analysis.md?plain=1)
 
-[Object-Oriented Approach](https://github.com/lachisholm/Data_Structure_Discovery/blob/main/LIFO.md)
+[Object-Oriented Approach](https://github.com/lachisholm/REMAT_PRO/blob/main/Object-oriented.md)
 
-[Flexible Property Management](https://github.com/lachisholm/Data_Structure_Discovery/blob/main/LIFO.md)
+[Flexible Property Management](https://github.com/lachisholm/REMAT_PRO/blob/main/Management.md)
 
-[Insightful Reporting](https://github.com/lachisholm/Data_Structure_Discovery/blob/main/LIFO.md)
+[Insightful Reporting](https://github.com/lachisholm/REMAT_PRO/blob/main/Reporting.md)
 
 ### Additional support page
 
-[Technical Architecture](https://github.com/lachisholm/Data_Structure_Discovery/blob/main/Maps.md)
+[Technical Architecture](https://github.com/lachisholm/REMAT_PRO/blob/main/Architecture.md)
 
 ## Project Overview
 
