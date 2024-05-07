@@ -4,6 +4,29 @@ Real Estate Research Software to help find properties and evaluate the investmen
 
 # REMAT-PRO: Real Estate Market Analysis Tool
 
+# Contact me
+
+Lora Chisholm
+loraperrychisholm@gmail.com
+
+Below are my informational pages for the final project
+
+[Overview for this project](https://github.com/lachisholm/Data_Structure_Discovery/blob/main/Overview.md)
+
+[Comprehensive Data Import Capabilities](https://github.com/lachisholm/Data_Structure_Discovery/blob/main/Links.md)
+
+[Data Analysis](https://github.com/lachisholm/Data_Structure_Discovery/blob/main/Trees.md)
+
+[Object-Oriented Approach](https://github.com/lachisholm/Data_Structure_Discovery/blob/main/LIFO.md)
+
+[Flexible Property Management](https://github.com/lachisholm/Data_Structure_Discovery/blob/main/LIFO.md)
+
+[Insightful Reporting](https://github.com/lachisholm/Data_Structure_Discovery/blob/main/LIFO.md)
+
+### Additional support page
+
+[Technical Architecture](https://github.com/lachisholm/Data_Structure_Discovery/blob/main/Maps.md)
+
 ## Project Overview
 
 REMAT-PRO is a sophisticated Python-based analytical tool designed specifically for real estate market analysis. This tool leverages advanced data processing and analysis techniques to provide comprehensive insights into market trends, property price dynamics, and demand fluctuations.
