@@ -4,6 +4,8 @@ Real Estate Research Software to help find properties and evaluate the investmen
 
 # REMAT-PRO: Real Estate Market Analysis Tool
 
+![Gateway](gateway.jpg "Garden Gate - Discovery Photos")
+
 # Contact me
 
 Lora Chisholm
