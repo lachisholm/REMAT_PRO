@@ -11,6 +11,8 @@ Real Estate Research Software to help find properties and evaluate the investmen
 Lora Chisholm
 loraperrychisholm@gmail.com
 
+## Table of Contents
+
 [Overview for this project](https://github.com/lachisholm/Data_Structure_Discovery/blob/main/Overview.md)
 
 [Comprehensive Data Import Capabilities](https://github.com/lachisholm/REMAT_PRO/blob/main/Comprehensive.md)
