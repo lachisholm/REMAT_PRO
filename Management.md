@@ -1,5 +1,3 @@
-# This is in contruction
-
 # Flexible Property Management in REMAT-PRO
 
 ## Introduction

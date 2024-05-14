@@ -1,5 +1,3 @@
-# This is in contruction
-
 # Insightful Reporting in REMAT-PRO
 
 ## Introduction
