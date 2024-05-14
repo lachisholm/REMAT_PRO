@@ -1,5 +1,3 @@
-# This is in contruction
-
 # Data Analysis in REMAT-PRO
 
 ## Introduction
