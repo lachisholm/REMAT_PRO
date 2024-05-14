@@ -1,5 +1,3 @@
-# This is in contruction
-
 # Object-Oriented Approach in REMAT-PRO
 
 ## Introduction
