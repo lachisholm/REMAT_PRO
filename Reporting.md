@@ -51,8 +51,6 @@ REMAT-PRO offers customizable report templates that can be tailored to meet spec
 REMAT-PRO leverages several advanced technologies to support its reporting capabilities:
 
 - **Python Libraries**: Uses libraries like Matplotlib and Seaborn for generating static and interactive visualizations.
-- **Pandas**: Utilizes Pandas for efficient data manipulation and preparation for reporting.
-- **Jinja Templates**: Employs Jinja templating engine for creating customizable HTML reports.
 
 ## Conclusion
 
