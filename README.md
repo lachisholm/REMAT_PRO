@@ -36,8 +36,6 @@ Upcoming: Data Visualization Tools: Matplotlib and Seaborn - charts and graphs.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [Python](https://docs.python.org/3/)
 - [Pandas](https://pandas.pydata.org/docs/)
 - [Numpy](https://numpy.org/doc/)
