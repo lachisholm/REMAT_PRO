@@ -38,15 +38,13 @@ Upcoming: Data Visualization Tools: Matplotlib and Seaborn - charts and graphs.
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](https://docs.python.org/3/)
-- [Web Site Name](https://pandas.pydata.org/docs/)
-- [Web Site Name](https://numpy.org/doc/)
-- [Web Site Name](https://scikit-learn.org/stable/documentation.html)
-- [Web Site Name](https://www.zillow.com/research/data/)
-- [Web Site Name](https://matplotlib.org/stable/contents.html)
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](https://seaborn.pydata.org/)
+- [Python](https://docs.python.org/3/)
+- [Pandas](https://pandas.pydata.org/docs/)
+- [Numpy](https://numpy.org/doc/)
+- [Scikit](https://scikit-learn.org/stable/documentation.html)
+- [Zillow](https://www.zillow.com/research/data/)
+- [Matplot](https://matplotlib.org/stable/contents.html)
+- [Seaborn](https://seaborn.pydata.org/)
 
 # Future Work
 
